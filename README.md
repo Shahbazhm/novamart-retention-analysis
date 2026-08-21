@@ -54,4 +54,4 @@ Each objective followed the same discipline: form a testable hypothesis first, d
 
 Built as part of a transition into data analytics, following 24+ years in sales, operations, and distribution (most recently managing Middle East/CIS distribution sales for a perfumes brand). This project, the first of a four-project portfolio, was scoped to prove out core analytical thinking in a familiar tool (Excel) before moving to SQL + Power BI for Project 2.
 
-Connect: [LinkedIn: add your profile link]
+Connect: www.linkedin.com/in/shahbazhmirza
