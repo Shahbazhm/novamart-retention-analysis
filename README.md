@@ -46,8 +46,6 @@ The full workbook (raw data, all 20+ working tabs, and the live dashboard with p
 - A **sample file** (`NovaMart_Sales_Data_Sample.xlsx`) contains one full month (November 2025, the highest-volume month in the dataset) of cleaned order data, 106 orders across all cities and categories, enough for anyone to see the schema and reproduce the logic. It includes a short "About This Sample" tab explaining what's in it.
 - The **methodology doc** documents the full analytical path so the reasoning is auditable even without every row.
 
-If you're reviewing this as a hiring manager or collaborator and want to see the live pivot/dashboard mechanics, I'm happy to walk through the full workbook directly.
-
 ## Analytical Approach (Summary)
 
 Each objective followed the same discipline: form a testable hypothesis first, design the pivot/analytical structure before touching Excel, then audit the result against a 5-point checklist before trusting it. Full detail in `METHODOLOGY.md`.
@@ -56,4 +54,4 @@ Each objective followed the same discipline: form a testable hypothesis first, d
 
 Built as part of a transition into data analytics, following 24+ years in sales, operations, and distribution (most recently managing Middle East/CIS distribution sales for a perfumes brand). This project, the first of a four-project portfolio, was scoped to prove out core analytical thinking in a familiar tool (Excel) before moving to SQL + Power BI for Project 2.
 
-Connect: www.linkedin.com/in/shahbazhmirza
+Connect: [LinkedIn: add your profile link]
