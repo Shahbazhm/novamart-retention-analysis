@@ -73,4 +73,4 @@ Each finding below follows the same structure: what the data showed, why it matt
 
 ---
 
-*Analysis based on NovaMart order data, Jan-Dec 2025. Full methodology, pivot table sources, and dashboard available in the accompanying workbook and GitHub repository.*
+*Analysis based on NovaMart order data, Jan-Dec 2025. Full methodology available in `METHODOLOGY.md`; a data sample and dashboard screenshots are included in the accompanying GitHub repository.*
